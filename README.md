@@ -42,4 +42,4 @@ MLOps        Docker · Helm · GitHub Actions · Prometheus · Grafana · Robofl
 
 ---
 
-📍 Casablanca, Morocco &nbsp;|&nbsp; 📧 lamia.achraf60@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/achraamia)
+📍 Casablanca, Morocco &nbsp;|&nbsp; 📧 lamia.achraf60@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/achraflamia)
