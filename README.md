@@ -21,7 +21,9 @@ Building production-grade systems from C++ inference runtimes on embedded hardwa
 |---|---|---|
 | [k230-botsort-tracker](https://github.com/AchrafLamia/k230-botsort-tracker) | C++ multi-object tracker compiled as native ELF under RTOS for K230 edge devices | C++, BoTSORT, RTOS, K230 |
 | [yolo-kd-k230-pipeline](https://github.com/AchrafLamia/yolo-kd-k230-pipeline) | Full KD pipeline: XLarge → nano → ONNX → TensorRT INT8 → `.kmodel`, 96.2% mAP@50 | Python, PyTorch, TensorRT, nncase |
-| [lbale-app](https://github.com/AchrafLamia/lbale-app) | AI-powered second-hand clothing marketplace with live-selling & YOLOv8 + CLIP listing pipeline | Flutter, Node.js, AWS IVS, CLIP |
+| [lbale-app](https://github.com/AchrafLamia/lbale-app) | AI-powered second-hand clothing marketplace with live-selling & YOLOv12 + CLIP listing pipeline | Flutter, Node.js, AWS IVS, CLIP |
+| [gesture-action-recognition](https://github.com/AchrafLamia/gesture-action-recognition) | ResNet18+LSTM, TCN (edge-quantized), and Twins-SVT Vision Transformer — 91.9% accuracy | PyTorch, TCN, Transformers |
+| [financial-portfolio-analysis](https://github.com/AchrafLamia/financial-portfolio-analysis) | Portfolio optimization: efficient frontier, Sharpe ratio, VaR, Monte Carlo simulation | Python, NumPy, SciPy |
 
 ---
 
